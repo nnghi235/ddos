@@ -64,5 +64,5 @@ while True:
  driver.refresh()
  os.system("cls")
  print(f"Đang Tấn Công IP: {ip}")
- time.sleep(5)
+ time.sleep(1)
              
